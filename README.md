@@ -1,2 +1,2 @@
 # VolcanInk
-Obsidian To Static HTML converter written in Rust
+Static HTML generator for Obsidian notes written in Rust
